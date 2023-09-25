@@ -1,0 +1,1 @@
+# IEEE-VAST-Challenge-2019---Crowdsourcing-for-Situational-Awareness
